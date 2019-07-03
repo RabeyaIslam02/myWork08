@@ -1,0 +1,17 @@
+.header, .hero, .body, .bar, .footer{
+	background-color: pink;
+	margin-bottom: 20px;
+	padding: 10px 0;
+}
+.bg{
+	min-height: 70px;
+	background-color: #99D9EA;
+	color: black;
+	border: 1px solid black;
+}
+.red{
+	min-height: 70px;
+	background-color: red;
+	color: black;
+	border: 1px solid black;
+}
